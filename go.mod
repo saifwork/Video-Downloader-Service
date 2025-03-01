@@ -1,6 +1,6 @@
 module github.com/saifwork/video-downloader-service.git
 
-go 1.22.3
+go 1.22
 
 require (
 	github.com/bytedance/sonic v1.11.6 // indirect
